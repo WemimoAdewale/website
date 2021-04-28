@@ -1,0 +1,17 @@
+body{
+  background-image:
+  url(one.jpeg);
+}
+ nav{display:block;
+
+ }
+.container{ margin-top: 30%;
+color:white;}
+.text{
+  font-size: 3em;
+}
+input{
+  background-color:grey;
+  margin-top:10%;
+
+}

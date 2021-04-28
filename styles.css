@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+  color:blue;
+}
+img{
+border-radius: 200px;
+  float:left;
+  margin-right:30px;
+}
+.big{
+  font-size: 3em;
+  margin-bottom:5%;
+}
+.name{
+  font-size: 2em;
+  margin:5%;
+}
